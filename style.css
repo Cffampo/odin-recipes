@@ -1,0 +1,21 @@
+body {
+    background-color: #fff3e0;
+}
+
+p, li {
+    color: #5d4037;
+    font-family: Georgia, "Times New Roman";
+}
+
+a {
+    color: #8d6e63;
+}
+
+h1, h2 {
+    color: #ff7043;
+    font-family: Tahoma;
+}
+
+#index-header {
+    text-align: center;
+}
