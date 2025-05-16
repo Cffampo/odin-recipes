@@ -5,6 +5,7 @@ body {
 p, li {
     color: #5d4037;
     font-family: Georgia, "Times New Roman";
+    font-size: large;
 }
 
 a {
@@ -18,4 +19,20 @@ h1, h2 {
 
 #index-header {
     text-align: center;
+}
+
+.recipe-list li{
+    padding: 10px;
+}
+
+img{
+    border: solid black thick;
+}
+
+.ingredients li{
+    padding: 7px;
+}
+
+.steps li{
+    padding: 5px;
 }
